@@ -11,7 +11,7 @@
 
 # Reto 6 - Hive y Spark
 ## Cluster de Amazon EMR
-Este es el cluster de Amazon EMR que se utilizó para el desarrollo del reto 5. El cluster fue creado con las indicaciones del
+Estoy usando un cluster de Amazon EMR que para el desarrollo de este reto. El cluster fue creado con las indicaciones del
 [Lab 0](https://github.com/st0263eafit/st0263-241/blob/main/bigdata/00-lab-aws-emr/Install-AWS-EMR.pdf)
 
 1.Primero creé en el HDFS la carpeta donde iban a estar los datos en el CSV
