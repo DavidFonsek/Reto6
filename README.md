@@ -29,9 +29,31 @@ Este es el cluster de Amazon EMR que se utilizó para el desarrollo del reto 5. 
 5. Subí el archivo CSV en el S3 para ser leído en por Hive
 ![](./Images/DatosS3.png)
 
-6. Esta es una vista de la tabla hdi2 que son los datos del CSV en el S3 observados desde el Hive
+6. Creé la tabla externa en Hive con los datos en S3
+![](./Images/TablaExterna.png)
+
+7. Esta es una vista de la tabla hdi2 que son los datos del CSV en el S3 observados desde el Hive
 ![](./Images/DatosTablaExterna.png)
 
-7. Cree una tabla para otro CSV alojada en el S3
+8. Cree una tabla para otro CSV (export) alojada en el S3
 ![](./Images/CreacionTablaExpo.png)
 
+9. Hice las consultas del tutorial
+![](./Images/Consulta1.png)
+![](./Images/Consulta2.png)
+![](./Images/Consulta3.png)
+
+10. Cree una tabla llamada docs en Hive con archivos almacenados en S3, los cuales eran unos .txt
+![](./Images/CreacionDocsTabla.png)
+
+11. Esta es una vista de los datos de la tabla docs con los datos en el S3 observados desde el Hive
+![](./Images/DatosDocs.png)
+
+12. Estas son las consultas de la tabla docs propuestas por el tutorial
+![](./Images/ConsultaDocs1.png)
+![](./Images/ConsultaDocs2.png)
+
+13. Por ultimo resolví el reto propuesto en el tutorial
+![](./Images/Reto5.png)
+![](./Images/Reto5b.png)
+![](./Images/Reto5c.png)
